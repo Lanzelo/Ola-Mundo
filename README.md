@@ -3,3 +3,5 @@
  Professor: Gustavo Guanabara
 
 Repositório criado durante a 5ª aula do curso.
+
+Linha adicionada através do editor do GitHub.
