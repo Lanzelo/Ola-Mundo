@@ -37,3 +37,27 @@
    1. teste3.1
    2. teste3.2
 4. Teste4
+
+
+## Listas Demarcada
+	observações:
+	1. os itens da lista devem começar com traço ou asterisco
+	2. é possível criar sub-itens, dando 3 espaços após o item desejado	
+	
+* Teste
+* Teste2
+* Teste3
+* Teste4
+   * Teste4.1
+* Teste5
+
+## Lista de Tarefas
+	observações:
+	1. os itens da lista devem começar com traço e colchetes 
+	2. é possível criar sub-itens, dando 3 espaços após o item desejado
+	3. é possível marcar os colchetes, colocando um x dentro deles
+
+- [ ] Criar página
+- [x] Reunião com cliente
+- [ ] Receber pagamento 
+   - [ ] Ir no banco
