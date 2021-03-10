@@ -97,9 +97,15 @@ linha de código 2
 linha de código 3
 ```
 
-## Postando emojis
+## Postando emojis:
 	1. :nome_emoji: (vulcan_salute)
 	2. o próprio markdown sugere alguns emojis após digitar :
 	3. https://github.com/ikatyang/emoji-cheat-sheet
+	4. https://emojipedia.org/
 Olá 🖖 
 
+## Citando pessoas:
+	@nome
+	
+## Quote
+> texto
