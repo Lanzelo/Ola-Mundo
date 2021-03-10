@@ -29,11 +29,11 @@
 # Listas Numeradas
 	observações:
 	1. os itens da lista devem começar com número, mas o markdown promove o ordenamento independente dos algarismos usados
-	2. é possível criar sub-itens, dando espaço/tab após o item desejado	
+	2. é possível criar sub-itens, dando 3 espaços após o item desejado	
 	
 1. Teste
 2. Teste2
 3. Teste3
-  1. teste3.1
-  2. teste3.2
+   1. teste3.1
+   2. teste3.2
 4. Teste4
