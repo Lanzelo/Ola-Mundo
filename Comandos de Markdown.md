@@ -6,14 +6,17 @@ Aula de Mardown: Curso em Vídeo Git e GitHub
     
 Comandos:
 
-Negrito: 2 asteriscos ou 2 sublinhados
+Negrito: 2 asteriscos ou 2 sublinhados: 
 **Hello World!**; __Hello World!__; 
 
-Itálico: *texto*; _texto_;
+Itálico: 1 asterisco ou 1 sublinhado
+*texto*; _texto_;
 
-Riscado: ~~texto~~;
+Riscado: 2 tils
+~~texto~~;
 
-Título: # Texto (tamanho 1) ; ## Texto (tamanho 2) ; ### Texto (tamanho 3);
+Título: hashtag
+# Texto (tamanho 1) ; ## Texto (tamanho 2) ; ### Texto (tamanho 3);
 
 Linha: ---; ***
 
