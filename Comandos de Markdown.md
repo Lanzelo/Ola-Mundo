@@ -12,10 +12,11 @@
 
 ~~Riscado:~~ 2 tils
 
-# Título 1: #
-## Título 2: ##
-### Título 3: ###
+  ### Título:
+   # Título 1
+   ## Título 2: ##
+   ### Título 3: ###
 
-Linha: ---
-
+---
+***
 Olá, Mundo!
