@@ -26,7 +26,7 @@
 ## Combinações:
 # _*Hello World!*_
 
-# Listas Numeradas
+## Listas Numeradas
 	observações:
 	1. os itens da lista devem começar com número, mas o markdown promove o ordenamento independente dos algarismos usados
 	2. é possível criar sub-itens, dando 3 espaços após o item desejado	
