@@ -70,3 +70,29 @@
 ## Adicionando links:
 	1. [descrição_link](url)
 [Acesse meu GitHub!](https://github.com/Lanzelo)
+
+## Adicionando Tabela:
+	1. Item | Item | Item
+	2. ---|---|---
+	3. descrição dos itens
+	4. basta descontinuar a tabela para encerra-la
+
+Nº | Nome | Nota
+---|---|---
+1|Ivan|9,0
+2|Chris|10,0
+3|Julia|7,0
+
+Fim da Tabela
+
+## Postando elementos de código
+	1. entre crases (`  `)
+	2. entre blocos de 3 crases (```) 
+
+`linha de código`
+
+```
+linha de código 1
+linha de código 2
+linha de código 3
+```
