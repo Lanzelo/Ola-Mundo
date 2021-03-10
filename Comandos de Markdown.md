@@ -66,3 +66,7 @@
 	1. Arrastar imagem para linha "attach files by..." no final da página
 	2. ![descrição_imagem](url)
 ![avatar do Lanzelo](https://user-images.githubusercontent.com/79880840/110563839-a6ae9180-812a-11eb-85e6-e546f47841a2.jpg)
+
+## Adicionando links:
+	1. [descrição_link](url)
+[Acesse meu GitHub!](https://github.com/Lanzelo)
